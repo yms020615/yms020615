@@ -1,5 +1,6 @@
 # 🕊️
-
+* Korea Univerty, Data Science of Informatics (2021.03 ~ )
+* Leader of Data Science 2nd freshmen learning center (2022.01 ~ )
 
 ## ✏️
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
