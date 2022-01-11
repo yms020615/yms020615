@@ -11,7 +11,7 @@
 
 ## ✏️
 <img src="https://img.shields.io/badge/Sololearn-149EF2?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/scikit-learn-F7931E?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=Python&logoColor=white"/></a>
