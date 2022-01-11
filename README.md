@@ -21,7 +21,7 @@
 
 ## 📞
 <a href="mailto:cooki0615@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
-[![instagram Badge](https://img.shields.io/badge/@99\_bidulki\_99-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/99_bidulki_99/) &nbsp;
+[![instagram Badge](https://img.shields.io/badge/@99\\_bidulki\\_99-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/99_bidulki_99/) &nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidulki-99&show_icons=true&theme=radical)
 
