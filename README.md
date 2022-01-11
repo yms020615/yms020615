@@ -1,6 +1,8 @@
 # 🕊️
 🧑‍🎓 Sejong High School (2018.03 ~ 2021.01)
+
 🐯 Korea Univerty, Data Science of Informatics (2021.03 ~ )
+
 🐯 Leader of Data Science 2nd freshmen learning center (2022.01 ~ )
 
 ## 🔨
