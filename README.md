@@ -21,7 +21,10 @@
 
 ## 📞
 <a href="mailto:cooki0615@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
+-[![instagram Badge](https://img.shields.io/badge/@99_bidulki_99-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/99_bidulki_99/) &nbsp;
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidulki-99&show_icons=true&theme=radical)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cooki0615) https://solved.ac/cooki0615/
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidulki-99&layout=compact)]
