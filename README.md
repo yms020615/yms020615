@@ -26,6 +26,8 @@
 <a href="mailto:cooki0615@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logoGmail&logoColor=white" ></a>
 [![instagram Badge](https://img.shields.io/badge/@99_bidulki_99-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/99_bidulki_99/) &nbsp;
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbidulki-99&count_bg=%23B2B2B2&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)&nbsp;
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bidulki-99&show_icons=true&theme=radical)
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cooki0615) https://solved.ac/cooki0615/
