@@ -7,7 +7,7 @@
 
 🐯 Representative Account of Updata (Data Science Club) (2022.03 ~ )
 
-🐯 Teaching Assistant of Jeon's Study with Google that solves problems hard (Computer Science Club KUGODS) (2022.05 ~ )
+🐯 Teaching Assistant of KUGODS: Lightbulb (Computer Science Club) (2022.05 ~ )
 
 ## 🔨
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
