@@ -5,9 +5,11 @@
 
 🐯 Leader of Data Science 2nd freshmen learning center (2022.01 ~ 2022.02)
 
-🐯 Representative Account of Updata (Data Science Club) (2022.03 ~ )
+🐯 Representative Account of Updata (Data Science Club) (2022.03 ~ 2022.08)
 
 🐯 Teaching Assistant of KUGODS: Lightbulb (Computer Science Club) (2022.05 ~ )
+
+🐯 Vice President of Updata (Data Science Club) (2022.09 ~ )
 
 ## 🔨
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
