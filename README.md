@@ -37,4 +37,6 @@
 
 ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cooki0615) https://solved.ac/cooki0615/
 
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=bidulki99) https://solved.ac/bidulki99/
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bidulki-99&layout=compact)
