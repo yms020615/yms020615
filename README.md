@@ -24,9 +24,6 @@
 <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>
 
 ## ✏️
-<img src="https://img.shields.io/badge/Sololearn-149EF2?style=flat-square&logo=Sololearn&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/></a>
-
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=NumPy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/></a>
