@@ -9,13 +9,13 @@
 
 🐯 Teaching Assistant of KUGODS: Lightbulb (Computer Science Club) (2022.05 ~ 2022.08)
 
-🐯 Vice President of Updata (Data Science Club) (2022.09 ~ 2023.02)
+🐯 Vice President of Updata (Data Science Club) (2022.09 ~ 2023.04)
 
 🐯 Student representative of the department of Data Science (2022.09 ~ 2023.08)
 
 🐯 Core of Data Science (KUGODS: GDSC) (2022.09 ~ 2023.08)
 
-🐯 Intern of MLV led by Hyunwoo J. Kim (2023.01 ~ 2023.02)
+🐯 Intern of MLV led by Hyunwoo J. Kim (2023.01 ~ 2023.03)
 
 ## 🔨
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
