@@ -15,7 +15,7 @@
 
 🐯 Core of Data Science (KUGODS: GDSC) (2022.09 ~ 2023.08)
 
-🐯 Intern of MLV led by Hyunwoo J. Kim (2023.01 ~ 2023.03)
+🐯 Intern of MLV led by Hyunwoo J. Kim (2023.01 ~ )
 
 ## 🔨
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
